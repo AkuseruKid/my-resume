@@ -44,7 +44,7 @@ a {
 }
 
 .profile p {
-    line-height: 1.5;
+    line-height: 1.7;
 }
 
 .block {
@@ -86,7 +86,7 @@ a {
 .masteries-logos {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .masteries-description li {
