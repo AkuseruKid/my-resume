@@ -74,6 +74,14 @@ a {
     font-size: 30px;
 }
 
+.socials {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}
+
+
+
 .logo {
     width: 65px;
     height: 65px;
