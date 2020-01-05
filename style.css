@@ -77,10 +77,9 @@ a {
 .socials {
     width: 30px;
     height: 30px;
-    margin: 0 5px;
+    margin-right: 8px;
+
 }
-
-
 
 .logo {
     width: 65px;
@@ -112,12 +111,9 @@ a {
     align-items: center;
 }
 
-.projects-left, .experiences-left{
-    width: 40%;   
-}
-
-.trainings-left {
-    width: 48%;
+.projects-left, .experiences-left, .trainings-left{
+    width: 100%;
+    max-width: 450px;  
 }
 
 .flex-column {
@@ -125,14 +121,6 @@ a {
     flex-direction: column;
 }
 
-.projects p, .experiences-description, .trainings-description {
+.projects p, .experiences-description, .trainings-description, .projects a, .trainings-date, .experiences-date {
     padding: 10px 0;
-}
-
-.projects a, .trainings-date{
-    padding: 13px 0;
-}
-
-.experiences-date {
-    padding: 21px 0;
 }
