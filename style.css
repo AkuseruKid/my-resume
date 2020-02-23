@@ -108,12 +108,12 @@ a {
     list-style: none;
 }
 
-.projects-flex, .experiences-flex, .trainings-flex {
+.experiences-flex, .trainings-flex {
     display: flex;
     align-items: center;
 }
 
-.projects-left, .experiences-left, .trainings-left{
+.experiences-left, .trainings-left{
     width: 100%;
     max-width: 450px;  
 }
